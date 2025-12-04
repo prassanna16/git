@@ -1,3 +1,2 @@
 #git course learning
-bug1 change
-checking push
+changes in bug
